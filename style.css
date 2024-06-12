@@ -65,14 +65,7 @@ white #fdfdfd  */
     width: 100%;
     border-radius: 34px;
 }
-.btn:hover {
-    background-color: #f89d13;
-    filter: brightness (200%);
-}
-.btn:active {
-    background-color: #f05347;
-    filter: brightness (70%);
-}
+
 
 .btn.bg-grey {
     background: #a6a6a6;
